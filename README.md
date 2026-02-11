@@ -31,7 +31,7 @@ A functional React-based chat interface prototype designed for communication bet
 This project was a significant learning milestone. I believe in transparency regarding the tools used to achieve this result:
 
 * **First-Time Use of Professional Tools:** This was my first experience setting up a local development environment using **Visual Studio Code**, **Node.js**, and **Vite**.
-* **AI Collaboration:** I utilized **Gemini (AI)** as a mentor and pair-programmer. The AI helped me understand how to structure the Audio API logic, troubleshoot PowerShell execution policies, and resolve build conflicts.
+* **AI Collaboration:** I utilized **Gemini (AI) and Copilot** as a mentor and pair-programmer. The AI helped me understand how to structure the Audio API logic, troubleshoot PowerShell execution policies, and resolve build conflicts.
 * **Problem Solving:** While I am a beginner in React, this app showcases my ability to research complex topics, apply new concepts quickly, and successfully deploy a finished product to the cloud.
 
 ---
